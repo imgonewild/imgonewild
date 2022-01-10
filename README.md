@@ -1,19 +1,5 @@
 ## Sup <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alan](https://www.linkedin.com/in/alan-yu-4218b9b4/) 
 
-<a href="mailto:kaisite2004@gmail.com">
-  <img align="left" width="26px" height="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
-  <img align="left" width="26px" height="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
-</a>
-
-<a href="https://stackoverflow.com/users/3077712/alan-yu">
-  <img align="left" width="26px" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"  />
-</a>
-
-<br />
-
 ### About Me
 
 I have almost 3 years of front-end and back-end working exprience and mostly I used Angular, PHP and Node.js.
@@ -35,17 +21,16 @@ Backend: Node.js, PHP, MySQL, MQTT
 * [Jkos](https://github.com/imgonewild/jkos)
 * [Kbob](https://github.com/imgonewild/kabob)
 
-<!--
-**imgonewild/imgonewild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me
 
-Here are some ideas to get you started:
+<a href="mailto:kaisite2004@gmail.com">
+  <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Gmail.svg" />  
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
+  <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Linkedin.svg"  />
+</a>
+
+<a href="https://stackoverflow.com/users/3077712/alan-yu">
+  <img align="left" width="26px" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"  />
+</a>
