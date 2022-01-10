@@ -23,14 +23,14 @@ Backend: Node.js, PHP, MySQL, MQTT
 
 ### Contact me
 
-<a href="mailto:kaisite2004@gmail.com">
+* Gmail <a href="mailto:kaisite2004@gmail.com">
   <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Gmail.svg" />  
 </a>
 
-<a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
+* Linkedin <a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
   <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Linkedin.svg"  />
 </a>
 
-<a href="https://stackoverflow.com/users/3077712/alan-yu">
+* Stackoverflow <a href="https://stackoverflow.com/users/3077712/alan-yu">
   <img align="left" width="26px" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"  />
 </a>
