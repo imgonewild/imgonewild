@@ -16,7 +16,9 @@
 
 ### About Me
 
-I'm a Full Stack Developer and actively looking for **Web Front-end** position.
+I have almost 3 years of front-end and back-end exprience and mostly used Angular, PHP and Node.js.
+
+I'm actively looking for **Web Front-end** position.
 
 ### Tech Stack
 
