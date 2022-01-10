@@ -16,7 +16,7 @@
 
 ### About Me
 
-I'm a Full Stack Developer and actively looking for Front-end position.
+I'm a Full Stack Developer and actively looking for **Web Front-end** position.
 
 ### Tech Stack
 
@@ -24,10 +24,14 @@ Frontend: Angular, Bootstrap, JavaScript, TypeScript, HTML, CSS, SCSS
 
 Backend: Node.js, PHP, MySQL, MQTT
 
-![Alan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imgonewild&layout=compact&langs_count=8&hide_border=true)
+![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=8)
 
 ### My Experiences
 - [Full Stack Developer (Protech System)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
+
+### Interview Projects
+* [Jkos](https://github.com/imgonewild/jkos)
+* [Kbob](https://github.com/imgonewild/kabob)
 
 <!--
 **imgonewild/imgonewild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
