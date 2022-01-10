@@ -1,15 +1,15 @@
 ## Sup <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Alan](https://www.linkedin.com/in/alan-yu-4218b9b4/) 
 
 <a href="mailto:kaisite2004@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" width="26px" height="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="26px" height="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"  />
 </a>
 
 <a href="https://stackoverflow.com/users/3077712/alan-yu">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
+  <img align="left" width="26px" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"  />
 </a>
 
 <br />
