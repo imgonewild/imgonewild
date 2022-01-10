@@ -16,7 +16,7 @@
 
 ### About Me
 
-I have almost 3 years of front-end and back-end exprience and mostly used Angular, PHP and Node.js.
+I have almost 3 years of front-end and back-end working exprience and mostly I used Angular, PHP and Node.js.
 
 I'm actively looking for **Web Front-end** position.
 
@@ -28,10 +28,10 @@ Backend: Node.js, PHP, MySQL, MQTT
 
 ![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=8)
 
-### My Experiences
+### Working Experience
 - [Full Stack Developer (Protech System)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
-### Interview Projects
+### Recent Interview Take-Home Projects
 * [Jkos](https://github.com/imgonewild/jkos)
 * [Kbob](https://github.com/imgonewild/kabob)
 
