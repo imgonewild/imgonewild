@@ -15,7 +15,7 @@ Backend: Node.js, PHP, MySQL, MQTT
 ![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=8)
 
 ### Working Experience
-- [Full Stack Developer (Protech System)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
+- [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
 * [Jkos](https://github.com/imgonewild/jkos)
