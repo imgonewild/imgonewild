@@ -18,8 +18,8 @@ Backend: Node.js, PHP, MySQL, MQTT
 - [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
-* [Jkos](https://github.com/imgonewild/jkos)
-* [Kbob](https://github.com/imgonewild/kabob)
+* [Jkos(Game ticket booking page)](https://github.com/imgonewild/jkos)
+* [Kbob(Todo list)](https://github.com/imgonewild/kabob)
 
 ### Contact me
 
