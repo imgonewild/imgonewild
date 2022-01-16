@@ -19,7 +19,7 @@ Backend: Node.js, PHP, MySQL, MQTT
 
 ### Recent Interview Take-Home Projects
 * [Jkos(Game ticket booking page)](https://github.com/imgonewild/jkos)
-* [Kbob(Todo list)](https://github.com/imgonewild/kabob)
+* [17Live(Todo list)](https://github.com/imgonewild/17live)
 
 ### Contact me
 
