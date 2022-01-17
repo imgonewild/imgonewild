@@ -8,18 +8,20 @@ I'm actively looking for **Web Front-end** position and feel free to contact wit
 
 ### Tech Stack
 
-Frontend: Angular, Bootstrap, JavaScript, TypeScript, HTML, CSS, SCSS
+Frontend: Angular, Bootstrap, JavaScript, TypeScript, HTML, SCSS
 
 Backend: Node.js, PHP, MySQL, MQTT
 
-![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=8)
+Cloud: Google App Engine
+
+![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=4)
 
 ### Working Experience
 - [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
 * [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
-* [17Live (Todo list)](https://github.com/imgonewild/17live)
+* [17Live (Todo list without using CSS framework)](https://github.com/imgonewild/17live)
 
 ### Contact me
 
