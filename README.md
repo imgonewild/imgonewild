@@ -4,7 +4,7 @@
 
 I have almost 3 years of front-end and back-end working exprience and mostly I used Angular, PHP and Node.js.
 
-I'm actively looking for **Web Front-end** position.
+I'm actively looking for **Web Front-end** position and feel free to contact with me if you have front-end position.
 
 ### Tech Stack
 
@@ -18,8 +18,8 @@ Backend: Node.js, PHP, MySQL, MQTT
 - [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
-* [Jkos(Game ticket booking page)](https://github.com/imgonewild/jkos)
-* [17Live(Todo list)](https://github.com/imgonewild/17live)
+* [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
+* [17Live (Todo list)](https://github.com/imgonewild/17live)
 
 ### Contact me
 
