@@ -2,9 +2,9 @@
 
 ### About Me
 
-I have almost 3 years of front-end and back-end working exprience and mostly I used Angular, PHP and Node.js.
+**I focused on web developement** but I also participated in back-end developement.
 
-I'm actively looking for **Web Front-end** position and feel free to contact with me if you have front-end position.
+I'm actively looking for **Web Front-end** position.
 
 ### Tech Stack
 
