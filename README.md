@@ -20,8 +20,9 @@ Cloud: Google App Engine
 - [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
-* [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
+* [hTC (RWD card list & view details)](https://github.com/imgonewild/htc)
 * [17Live (Todo list without using CSS framework)](https://github.com/imgonewild/17live)
+* [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
 
 ### Contact me
 
