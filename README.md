@@ -26,7 +26,7 @@ Cloud: Google App Engine
   - [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
 
 * React Hooks
-  - [hTC (RWD card list & view details)](https://github.com/imgonewild/htc-react-hooks)
+  - [hTC (RWD card list & view details with local/global search functions)](https://github.com/imgonewild/htc-react-hooks)
 
 ### Contact me
 
