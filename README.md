@@ -8,7 +8,7 @@ I'm actively looking for **React Frontend** position.
 
 ### Tech Stack
 
-Frontend: Angular, Bootstrap, JavaScript, TypeScript, HTML, SCSS
+Frontend: **React Hooks**, Angular, Bootstrap, JavaScript, TypeScript, HTML, SCSS
 
 Backend: Node.js, PHP, MySQL, MQTT
 
