@@ -2,9 +2,9 @@
 
 ### About Me
 
-**I focused on web developement** but I also participated in back-end developement.
+**I focused on web developement** but I also participated in back-end.
 
-I'm actively looking for **Web Front-end** position.
+I'm actively looking for **React Frontend** position.
 
 ### Tech Stack
 
@@ -20,9 +20,13 @@ Cloud: Google App Engine
 - [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
 
 ### Recent Interview Take-Home Projects
-* [hTC (RWD card list & view details)](https://github.com/imgonewild/htc)
-* [17Live (Todo list without using CSS framework)](https://github.com/imgonewild/17live)
-* [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
+* Angular
+  - [hTC (RWD card list & view details)](https://github.com/imgonewild/htc)
+  - [17Live (Todo list without using CSS framework)](https://github.com/imgonewild/17live)
+  - [Jkos (Game ticket booking page)](https://github.com/imgonewild/jkos)
+
+* React Hooks
+  - [hTC (RWD card list & view details)](https://github.com/imgonewild/htc-react-hooks)
 
 ### Contact me
 
