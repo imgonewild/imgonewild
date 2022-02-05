@@ -34,10 +34,9 @@ Cloud: Google App Engine
   <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Gmail.svg" />  
 </a>
 
-* Linkedin <a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
+* LinkedIn <a href="https://www.linkedin.com/in/alan-yu-4218b9b4/">
   <img align="left" width="26px" height="26px" src="https://github.com/imgonewild/imgonewild/blob/main/assets/Linkedin.svg"  />
 </a>
 
-* Stackoverflow <a href="https://stackoverflow.com/users/3077712/alan-yu">
-  <img align="left" width="26px" height="26px" src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg"  />
-</a>
+* <a href="https://stackoverflow.com/users/3077712/alan-yu"><img src="https://stackexchange.com/users/flair/3696510.png" width="210" height="60" alt="profile for Alan Yu on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Alan Yu on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
