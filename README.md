@@ -17,7 +17,7 @@ Cloud: Google App Engine
 ![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=4)
 
 ### Working Experience
-- [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Present)
+- [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
 
 ### Recent Interview Take-Home Projects
 * Angular
