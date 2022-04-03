@@ -2,7 +2,7 @@
 
 ### About Me
 
-**I focused on web developement** but I also participated in back-end.
+**I focused on web frontend developement** but I also participated in backend.
 
 I'm actively looking for **React Frontend** position.
 
@@ -17,7 +17,7 @@ Cloud: Google App Engine
 ![Alan's Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imgonewild&langs_count=4)
 
 ### Working Experience
-- [Full Stack Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
+- [Frontend Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
 
 ### Recent Interview Take-Home Projects
 * Angular
