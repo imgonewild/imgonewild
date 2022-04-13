@@ -20,8 +20,7 @@ Cloud: Google App Engine
 - [Frontend Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
 
 ### Recent Interview Take-Home Projects
-* React Hooks
-  - [hTC (RWD card list & view details with global search & storage functions)](https://github.com/imgonewild/htc-react-hooks)
+ - [hTC (RWD card list & view details with global search & storage functions)](https://github.com/imgonewild/htc-react-hooks)
 
 ### Contact me
 
