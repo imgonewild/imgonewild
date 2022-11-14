@@ -20,7 +20,7 @@ Cloud: Google App Engine
 - [Frontend Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
 
 ### Projects
- - [RWD card list & view details with search functions](https://github.com/imgonewild/htc-react-hooks)
+ - (React Hooks) [RWD card list with searching function](https://github.com/imgonewild/htc-react-hooks)
 
 ### Contact me
 
