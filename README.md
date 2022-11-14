@@ -4,11 +4,11 @@
 
 **I focused on web frontend developement** but I also participated in backend.
 
-I'm actively looking for **React Frontend** position.
+I'm actively looking for **Frontend** position.
 
 ### Tech Stack
 
-Frontend: **React Hooks**, Angular, Bootstrap, JavaScript, TypeScript, HTML, SCSS
+Frontend: React Hooks, Angular, Bootstrap, JavaScript, TypeScript, HTML, SCSS
 
 Backend: Node.js, PHP, MySQL, MQTT
 
@@ -19,8 +19,8 @@ Cloud: Google App Engine
 ### Working Experience
 - [Frontend Developer (Protech Systems Group)](https://www.protech.com.tw/Home/home_us.asp) - (May'19 - Feb'22)
 
-### Recent Interview Take-Home Projects
- - [hTC (RWD card list & view details with global search & storage functions)](https://github.com/imgonewild/htc-react-hooks)
+### Projects
+ - [RWD card list & view details with search functions](https://github.com/imgonewild/htc-react-hooks)
 
 ### Contact me
 
